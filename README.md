@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### `npm run start:local`
 
+Request for the .env.local file from terencelimjc@gmail.com before running the command.
+
 Runs the app in the development mode.\
 Open [http://localhost:8080](http://localhost:8080) to view it in your browser.
 
